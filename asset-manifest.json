@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactApplications/static/css/main.6477cb2f.css",
-    "main.js": "/ReactApplications/static/js/main.c4b1342f.js",
-    "static/js/787.32032a02.chunk.js": "/ReactApplications/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/ReactApplications/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/ReactApplications/index.html",
-    "main.6477cb2f.css.map": "/ReactApplications/static/css/main.6477cb2f.css.map",
-    "main.c4b1342f.js.map": "/ReactApplications/static/js/main.c4b1342f.js.map",
-    "787.32032a02.chunk.js.map": "/ReactApplications/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/ReactApplications/roboFriends/static/css/main.b05c7b67.css",
+    "main.js": "/ReactApplications/roboFriends/static/js/main.22489903.js",
+    "static/js/787.32032a02.chunk.js": "/ReactApplications/roboFriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/ReactApplications/roboFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ReactApplications/roboFriends/index.html",
+    "main.b05c7b67.css.map": "/ReactApplications/roboFriends/static/css/main.b05c7b67.css.map",
+    "main.22489903.js.map": "/ReactApplications/roboFriends/static/js/main.22489903.js.map",
+    "787.32032a02.chunk.js.map": "/ReactApplications/roboFriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6477cb2f.css",
-    "static/js/main.c4b1342f.js"
+    "static/css/main.b05c7b67.css",
+    "static/js/main.22489903.js"
   ]
 }
